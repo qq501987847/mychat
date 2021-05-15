@@ -1,0 +1,10 @@
+@import 'normalize.css';
+
+
+body {
+	background-image: url(../grilBg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+	
+}
